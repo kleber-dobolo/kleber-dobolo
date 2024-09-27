@@ -15,4 +15,5 @@
 ![original_83093ea34391d9a149e767b741d746b2](https://github.com/user-attachments/assets/2ac09b6d-964c-4d17-bf7a-f28fe61ddd43)
 
 <h3 align="center"> 日本語を勉強しています </h3>
+<h3 align="center"> Estudante de japonês </h3>
 

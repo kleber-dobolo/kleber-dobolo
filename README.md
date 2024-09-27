@@ -1,5 +1,7 @@
 <h3 align="center"> Um programador do Brazil</h3>
 
+<img align="right" alt="Coding" width="400" src="https://d2w9rnfcy7mm78.cloudfront.net/16292323/original_83093ea34391d9a149e767b741d746b2.gif?1651445961">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lucas_ct_sfh.092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas_ct_sfh.092" height="30" width="40" /></a>

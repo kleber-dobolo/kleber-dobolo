@@ -1,6 +1,7 @@
 <h3 align="center"> Um programador do Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://d2w9rnfcy7mm78.cloudfront.net/16292323/original_83093ea34391d9a149e767b741d746b2.gif?1651445961">
+![original_83093ea34391d9a149e767b741d746b2](https://github.com/user-attachments/assets/2ac09b6d-964c-4d17-bf7a-f28fe61ddd43)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
